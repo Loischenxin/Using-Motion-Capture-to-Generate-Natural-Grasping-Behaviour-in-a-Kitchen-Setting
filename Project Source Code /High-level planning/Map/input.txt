@@ -1,0 +1,4 @@
+door refrigerator left_handle_cabinet right_handle_cabinet drawer cutting_board sink
+right hand
+You should wash a pear and cut an apple
+end
